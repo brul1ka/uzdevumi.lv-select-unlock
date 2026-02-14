@@ -9,7 +9,7 @@ It only changes how the page behaves on the client side.
 
 ## 🛠 Installation
 
-1. Install Tampermonkey (Chrome / Firefox)
+1. Install Tampermonkey ([Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/))
 2. Click [Download userscript](https://github.com/brul1ka/uzdevumi.lv-select-unlock/releases/latest/download/uzdevumi.lv-select-unlock.user.js)
 3. Confirm installation in Tampermonkey
 4. Done.
